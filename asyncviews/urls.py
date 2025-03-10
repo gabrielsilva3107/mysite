@@ -22,3 +22,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('counter/', views.async_counter_view),
 ]
+
+# testing
